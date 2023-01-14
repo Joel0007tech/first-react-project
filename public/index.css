@@ -1,0 +1,26 @@
+.heading {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  color: blue;
+  font-weight: 900;
+  font-size: large;
+}
+.divStyling {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: blue;
+  border: 3px solid aqua;
+  border-radius: 10px;
+  width: fit-content;
+  margin: 0 auto;
+  gap: 20px;
+}
+.cardDetails {
+  display: flex;
+  flex-direction: column;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  padding: 10px;
+  font-size: large;
+}
